@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://myblog-2jf.pages.dev/'
 languageCode = 'en-us'
 title = "Shayan's project display"
 theme = 'hyde'
