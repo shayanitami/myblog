@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shayan&#39;s project display</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Shayan&#39;s project display</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Sep 2025 14:42:25 +0200</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shayan Project</title>
+      <link>https://example.org/shayan-project/</link>
+      <pubDate>Sun, 21 Sep 2025 14:42:25 +0200</pubDate>
+      <guid>https://example.org/shayan-project/</guid>
+      <description>Hello, your compute has virus&#xA;import matplotlib.pyplot as plt xi = [0, 1, 2, 3, 4, 5, 6, 7] yi = [1.86, 5.63, 12.42, 17.58, 21.15, 28.49, 33.48, 37.26] a = b = loss = dloss_a = dloss_b = 0 learning_rate = 0.001 loss_history = [] for _ in range(500): loss =dloss_a=dloss_b= 0 for i in range(len(xi)): y = a * xi[i] + b loss = loss + (yi[i] - y) ** 2 dloss_a += -2 * xi[i] * (yi[i] - y) dloss_b += -2 * (yi[i] - y) a = a - learning_rate * dloss_a b = b - learning_rate * dloss_b loss_history.</description>
+    </item>
+  </channel>
+</rss>
